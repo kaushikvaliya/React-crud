@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "email": "kk@gmile.com",
+      "password": "2233",
+      "name": "valiya",
+      "id": 4
+    },
+    {
+      "name": "vivek",
+      "password": "vivek@gmol.com",
+      "email": "12345",
+      "id": 5
+    },
+    {
+      "email": "kaushik@gmail.com",
+      "password": "12345",
+      "name": "kaushik",
+      "id": 6
+    }
+  ]
+}
